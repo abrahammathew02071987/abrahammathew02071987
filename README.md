@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Abraham
 - 👀 I’m interested in Datascience
 - 🌱 I’m currently learning and implementing Datascience projects
-- 💞️ I’m looking to collaborate on Datascience
+- 💞️ I’m looking to collaborate with other Datascience aspirants
 - 📫 How to reach me abrahammathew02071987@gmail.com
 
 <!---
