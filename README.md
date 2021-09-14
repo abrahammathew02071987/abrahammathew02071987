@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Abraham. I am professional with 11+ of years in the IT industry.
+- 👋 Hi, I’m Abraham. I am professional with over 11 of years in the IT industry.
 - 👀 I’m interested in Datascience,Powershell,Python,Azure
 - 🌱 I’m currently learning and implementing Datascience projects
 - 💞️ I’m looking to collaborate with other Datascience aspirants
