@@ -1,5 +1,10 @@
-- 👋 Hi, I’m Abraham. I am professional with over 11 of years in the IT industry.
-- 👀 I’m interested in Datascience,Powershell,Python,Azure
+Hi there! 👋🤓
+I'm Abraham Mathew
+Technolgy Lead
+
+💻 Technologies I Love
+- 💻  Currently working as a Tech Lead at Infosys LTD.
+- 💓 Passionate with problem solving and daily routines automation
 - 🌱 I’m currently learning and implementing Datascience projects
 - 💞️ I’m looking to collaborate with other Datascience aspirants
 - 📫 How to reach me abrahammathew02071987@gmail.com
